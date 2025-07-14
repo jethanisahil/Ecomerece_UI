@@ -39,7 +39,7 @@ This UI is designed to work smoothly on **all screen sizes**:
 
 Here’s a quick look at the E-commerce UI Clone:
 
-![Screenshot](https://github.com/jethanisahil/Amazon_Clone/blob/1865756775207edbf61cbbbd176642abc21eaae8/screen-shotAmazon_clone.jpg?raw=true)
+[![Screenshot](https://github.com/jethanisahil/Amazon_Clone/blob/1865756775207edbf61cbbbd176642abc21eaae8/screen-shotAmazon_clone.jpg?raw=true)](https://github.com/jethanisahil/Ecomerece_UI/blob/main/E-Commerce%20UI%20Clone_ScreenShot.jpg?raw=true)
 
 ---
 
