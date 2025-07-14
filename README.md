@@ -46,7 +46,7 @@ Here’s a quick look at the E-commerce UI Clone:
 ## 🔗 Live Preview
 
 🌐 View the website live (hosted on GitHub Pages):  
-👉 [Live Demo Link](https://jethanisahil.github.io/Amazon_Clone/)
+👉 [Live Demo Link](https://jethanisahil.github.io/Ecomerece_UI/)
 
 > ⚠️ If you see a "Dangerous Site" warning, it's because of the name. You can fix it by renaming the repo to something like `Ecommerce_UI_Clone`.
 
